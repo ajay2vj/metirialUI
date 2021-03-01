@@ -3,8 +3,6 @@ import PropTypes from 'prop-types';
 
 import { AppBar, IconButton, MenuItem, Drawer } from 'material-ui';
 import { NavigationClose } from 'material-ui/svg-icons';
-import withWidth, { SMALL, MEDIUM, LARGE } from 'material-ui/utils/withWidth';
-import spacing from 'material-ui/styles/spacing';
 
 import Logged from './containers/Logged';
 
