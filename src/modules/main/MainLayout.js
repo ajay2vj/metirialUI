@@ -48,4 +48,4 @@ MainLayout.propTypes = {
   children: PropTypes.object.isRequired
 };
 
-export default withWidth()(MainLayout);
+export default MainLayout;
